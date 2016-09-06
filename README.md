@@ -1,5 +1,7 @@
 ## Wikipedia Searcher
-A wikipedia searcher, built with React, ES2015, Webpack HMR, and Babel.
+A wikipedia search tool, built with React.
+
+Including ES2015, Webpack HMR, and Babel.
 
 ## Installation
 ```
